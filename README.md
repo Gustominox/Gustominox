@@ -10,6 +10,6 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustominox&layout=compact&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
-Gustominox/Gustominox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gustominox/Gustominox is a special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
