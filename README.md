@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Augusto</h1>
 <h3 align="center">I am a student at Universidade do Minho, currently finishing my masters degree </h3>
-<img align='right' width = 300  src ='https://i.giphy.com/K3htdZ1XuVWVD5DZDZ.webp'>
 
 <h3 align="left">Find me on:</h3>
 <p align="left">
