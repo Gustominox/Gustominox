@@ -50,10 +50,18 @@
 TEMPORARIO------------------------------------
 --->
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustominox&layout=compact&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-<h3 align="right">Connect with me:</h3>
-<p align="right">
-  <a href="https://linkedin.com/in/augustooliveiracampos" target="_blank" style="text-decoration: none;">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Augusto Campos on LinkedIn" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustominox&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
+      </a>
+    </td>
+    <td align="right">
+      <h3>Connect with me:</h3>
+      <a href="https://linkedin.com/in/augustooliveiracampos" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Augusto Campos on LinkedIn" />
+      </a>
+    </td>
+  </tr>
+</table>
