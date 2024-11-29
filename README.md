@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Augusto</h1>
 <h3 align="center">I am a student at Universidade do Minho, currently finishing my masters degree </h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/augustooliveiracampos" target="_blank" style="text-decoration: none;">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Augusto Campos on LinkedIn" />
-  </a>
-</p>
 
 
 <h3 align="center">Projects from University</h3>
@@ -57,3 +51,9 @@ TEMPORARIO------------------------------------
 --->
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustominox&layout=compact&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="right">Connect with me:</h3>
+<p align="right">
+  <a href="https://linkedin.com/in/augustooliveiracampos" target="_blank" style="text-decoration: none;">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Augusto Campos on LinkedIn" />
+  </a>
+</p>
