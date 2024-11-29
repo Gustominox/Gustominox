@@ -49,13 +49,14 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustominox&count_private=true&show_icons=true&theme=gotham&hide=contribs&hide_border=true)
 TEMPORARIO------------------------------------
 --->
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
-  <div style="flex: 1; text-align: left; max-width: 50%;">
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustominox&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
     </a>
   </div>
-  <div style="flex: 1; text-align: right; max-width: 50%;">
+  <div style="flex: 1; text-align: right;">
     <h3>Connect with me:</h3>
     <a href="https://linkedin.com/in/augustooliveiracampos" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Augusto Campos on LinkedIn" />
