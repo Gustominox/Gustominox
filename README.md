@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Augusto</h1>
 <h3 align="center">I am a student at Universidade do Minho, currently finishing my masters degree </h3>
 
-<h3 align="left">Find me on:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/augustooliveiracampos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Augusto Campos" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/augustooliveiracampos" target="_blank" style="text-decoration: none;">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Augusto Campos on LinkedIn" />
+  </a>
 </p>
+
 
 <h3 align="center">Projects from University</h3>
 
