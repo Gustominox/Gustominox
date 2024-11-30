@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Augusto</h1>
 <h3 align="center">I am a student at Universidade do Minho, currently finishing my masters degree </h3>
   
-  <p align="left">
+  <p align="right">
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustominox&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
 </a>
