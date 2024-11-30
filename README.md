@@ -66,10 +66,10 @@ TEMPORARIO------------------------------------
 </a>
 </p>
 
-<img align='right' width = 300  src ='https://i.giphy.com/K3htdZ1XuVWVD5DZDZ.webp'>
+<img align='left' width = 300  src ='https://i.giphy.com/K3htdZ1XuVWVD5DZDZ.webp'>
 
-<h3 align="left">Find me on:</h3>
-<p align="left">
+<h3 align="right">Find me on:</h3>
+<p align="right">
 <a href="https://linkedin.com/in/augustooliveiracampos" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Augusto Campos" height="30" width="40" />
 </a>
