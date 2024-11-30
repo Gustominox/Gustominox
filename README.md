@@ -59,6 +59,6 @@ TEMPORARIO------------------------------------
 <h3 align="right">Connect with me:</h3>
 <p align="right">
 <a href="https://linkedin.com/in/augustooliveiracampos" target="_blank" style="text-decoration: none;">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Augusto Campos on LinkedIn" height="30" width="40"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Augusto Campos on LinkedIn"/>
 </a>
 </p>
