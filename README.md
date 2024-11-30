@@ -62,12 +62,3 @@ TEMPORARIO------------------------------------
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Augusto Campos on LinkedIn" height="30" width="40"/>
 </a>
 </p>
-
-<img align='left' width = 300  src ='https://i.giphy.com/K3htdZ1XuVWVD5DZDZ.webp'>
-
-<h3 align="right">Find me on:</h3>
-<p align="right">
-<a href="https://linkedin.com/in/augustooliveiracampos" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Augusto Campos" height="30" width="40" />
-</a>
-</p>
