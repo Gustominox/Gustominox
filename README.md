@@ -53,7 +53,6 @@ TEMPORARIO------------------------------------
 
 
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
   <p align="left" width = 300>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustominox&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
@@ -63,7 +62,15 @@ TEMPORARIO------------------------------------
 <h3 align="right">Connect with me:</h3>
 <p align="right">
 <a href="https://linkedin.com/in/augustooliveiracampos" target="_blank" style="text-decoration: none;">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Augusto Campos on LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Augusto Campos on LinkedIn" height="30" width="40"/>
 </a>
 </p>
-</div>
+
+<img align='right' width = 300  src ='https://i.giphy.com/K3htdZ1XuVWVD5DZDZ.webp'>
+
+<h3 align="left">Find me on:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/augustooliveiracampos" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Augusto Campos" height="30" width="40" />
+</a>
+</p>
