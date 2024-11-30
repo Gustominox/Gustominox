@@ -53,11 +53,8 @@ TEMPORARIO------------------------------------
 
 
 
-  <p align="left" width = 300>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustominox&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
-</a>
-</p>
+<img align="left" width = 300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustominox&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
+
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
