@@ -9,10 +9,10 @@
 
 | Subject                              |                                                 Description                                                  |             Tech             |
 | ------------------------------------ | :----------------------------------------------------------------------------------------------------------: | :--------------------------: |
-| Computacao Grafica                   |                     [Mini 3D engine (C++/OpenGl)](https://github.com/Gustominox/CG2324)                      |         C++ (OpenGl)         |
-| Processamento de Linguagens          |                [Forth Language Compiler (PLY)](https://github.com/Gustominox/Forth-Compiler)                 |         Python (PLY)         |
+| Computacao Grafica                   |                            [Mini 3D engine](https://github.com/Gustominox/CG2324)                            |         C++ (OpenGl)         |
+| Processamento de Linguagens          |                   [Forth Language Compiler](https://github.com/Gustominox/Forth-Compiler)                    |         Python (PLY)         |
 | Laboratórios de Informática II       |                     [Jogo Tabuleiro Rastro](https://github.com/Gustominox/jogTabRastro)                      |              C               |
-| Laboratórios de Informática III      |               [Query's app for Reviews (C e Java) ](https://github.com/Gustominox/ProjetoLi3)                |       C (Glib) e Java        |
+| Laboratórios de Informática III      |                     [Query's app for Reviews](https://github.com/Gustominox/ProjetoLi3)                      |       C (Glib) e Java        |
 | Laboratórios de Informática IV       |                  [WebApp Leiloes Online de arte](https://github.com/Gustominox/Entrega-LI4)                  | .NET Framework (Razor e C#)  |
 | Sistemas Distribuidos                |                   [Cloud Computing in a FaaS Style](https://github.com/Gustominox/SD-2324)                   |    Java (Multithreading)     |
 | Comunicacao por Computador           |                      [P2P file-sharing service](https://github.com/Gustominox/CC-2324)                       |            Python            |
