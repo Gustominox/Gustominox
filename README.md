@@ -7,18 +7,21 @@
 
 <div align="center">
 
-| Subject                         |                             Project                              |
-| ------------------------------- | :--------------------------------------------------------------: |
-| Computacao Grafica              |         [Project](https://github.com/Gustominox/CG2324)          |
-| Processamento de Linguagens     |     [Project](https://github.com/Gustominox/Forth-Compiler)      |
-| Laboratórios de Informática II  |      [Project](https://github.com/Gustominox/jogTabRastro)       |
-| Laboratórios de Informática III |       [Project](https://github.com/Gustominox/ProjetoLi3)        |
-| Laboratórios de Informática IV  |       [Project](https://github.com/Gustominox/Entrega-LI4)       |
-| Sistemas Distribuidos           |         [Project](https://github.com/Gustominox/SD-2324)         |
-| Comunicacao por Computador      |         [Project](https://github.com/Gustominox/CC-2324)         |
-| Comunicacao de Dados            |    [Project](https://github.com/Gustominox/comprShannon-Fano)    |
-| Inteligencia Artificial         | [Project](https://github.com/Gustominox/Intelegencia_artificial) |
-| Sistemas Operativos             |          [Project](https://github.com/Gustominox/SO_2)           |
+| Subject                              |                             Project                              |                 Description                  |             Tech             |
+| ------------------------------------ | :--------------------------------------------------------------: | :------------------------------------------: | :--------------------------: |
+| Computacao Grafica                   |         [Project](https://github.com/Gustominox/CG2324)          |         Mini 3D engine (C++/OpenGl)          |         C++ (OpenGl)         |
+| Processamento de Linguagens          |     [Project](https://github.com/Gustominox/Forth-Compiler)      |        Forth Language Compiler (PLY)         |         Python (PLY)         |
+| Laboratórios de Informática II       |      [Project](https://github.com/Gustominox/jogTabRastro)       |            Jogo Tabuleiro Rastro             |              C               |
+| Laboratórios de Informática III      |       [Project](https://github.com/Gustominox/ProjetoLi3)        | Aplicação de Query's para Reviews (C e Java) |       C (Glib) e Java        |
+| Laboratórios de Informática IV       |       [Project](https://github.com/Gustominox/Entrega-LI4)       |        WebApp Leiloes Online de arte         | .NET Framework (Razor e C#)  |
+| Sistemas Distribuidos                |         [Project](https://github.com/Gustominox/SD-2324)         |                                              |                              |
+| Comunicacao por Computador           |         [Project](https://github.com/Gustominox/CC-2324)         |                                              |                              |
+| Comunicacao de Dados                 |    [Project](https://github.com/Gustominox/comprShannon-Fano)    |                                              |                              |
+| Inteligencia Artificial              | [Project](https://github.com/Gustominox/Intelegencia_artificial) |                                              |                              |
+| Sistemas Operativos                  |          [Project](https://github.com/Gustominox/SO_2)           |                                              |                              |
+| Requisitos e Arquitetura de Software |           [Project](https://github.com/ajoaoalves/RAS)           |    WebApp for batch processing of images     | Node.js,Vue, AWS S3 e Python |
+
+
 
 </div>
 
