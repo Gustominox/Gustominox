@@ -24,16 +24,17 @@
 | Sistemas Operativos             |              [Client-Server to apply File Transformations](https://github.com/Gustominox/SO_2)               |     C (Multiprocessing)     |
 
 
-<h3 align="center">Master's degree</h3>
+<h3 align="left">Master's degree</h3>
 
-| Subject                              |                                       Description                                       |             Tech             |
-| ------------------------------------ | :-------------------------------------------------------------------------------------: | :--------------------------: |
-| Requisitos e Arquitetura de Software |       [WebApp for batch processing of images](https://github.com/ajoaoalves/RAS)        | Node.js,Vue, AWS S3 e Python |
-| Engenharia de Serviços em Rede       | [Serviço Over-the-top para entrega de multimédia](https://github.com/pinheiro2/ESR2425) |              Go              |
+| Subject                                      |                                                           Description                                                            |             Tech             |
+| -------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------: | :--------------------------: |
+| Requisitos e Arquitetura de Software         |                            [WebApp for batch processing of images](https://github.com/ajoaoalves/RAS)                            | Node.js,Vue, AWS S3 e Python |
+| Engenharia de Serviços em Rede               |                      [Over-the-top (OTT) service for media delivery](https://github.com/pinheiro2/ESR2425)                       |              Go              |
+| Aplicações e Serviços de Computação em Nuvem | [Automate the installation,configuration, monitoring, and evaluation of the Moonshot app](https://github.com/ASCN-UM/GrupoTP-13) |       Docker e Ansible       |
 
 </div>
 
-<h3 align="center">Other Projects</h3>
+<h3 align="left">Other Projects</h3>
 
 
 <div align="center">
