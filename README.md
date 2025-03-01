@@ -7,6 +7,9 @@
 
 <div align="center">
 
+<h4 align="center">Bachelor's degree</h4>
+
+
 | Subject                              |                                                 Description                                                  |             Tech             |
 | ------------------------------------ | :----------------------------------------------------------------------------------------------------------: | :--------------------------: |
 | Computacao Grafica                   |                            [Mini 3D engine](https://github.com/Gustominox/CG2324)                            |         C++ (OpenGl)         |
@@ -20,8 +23,7 @@
 | Inteligencia Artificial              | [Development of graph search algorithms (VectorRace)](https://github.com/Gustominox/Intelegencia_artificial) |            Python            |
 | Sistemas Operativos                  |              [Client-Server to apply File Transformations](https://github.com/Gustominox/SO_2)               |     C (Multiprocessing)      |
 | Requisitos e Arquitetura de Software |                  [WebApp for batch processing of images](https://github.com/ajoaoalves/RAS)                  | Node.js,Vue, AWS S3 e Python |
-
-
+| Engenharia de Serviços em Rede       |           [Serviço Over-the-top para entrega de multimédia](https://github.com/pinheiro2/ESR2425)            |              Go              |
 
 </div>
 
