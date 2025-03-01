@@ -3,11 +3,11 @@
 
 
 
-<h3 align="center">Projects from University</h3>
+<h2 align="center">Projects from University</h2>
 
 <div align="center">
 
-<h4 align="center">Bachelor's degree</h4>
+<h3 align="left">Bachelor's degree</h3>
 
 
 | Subject                         |                                                 Description                                                  |            Tech             |
@@ -24,7 +24,7 @@
 | Sistemas Operativos             |              [Client-Server to apply File Transformations](https://github.com/Gustominox/SO_2)               |     C (Multiprocessing)     |
 
 
-<h4 align="center">Master's degree</h4>
+<h3 align="center">Master's degree</h3>
 
 | Subject                              |                                       Description                                       |             Tech             |
 | ------------------------------------ | :-------------------------------------------------------------------------------------: | :--------------------------: |
