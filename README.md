@@ -10,20 +10,26 @@
 <h4 align="center">Bachelor's degree</h4>
 
 
-| Subject                              |                                                 Description                                                  |             Tech             |
-| ------------------------------------ | :----------------------------------------------------------------------------------------------------------: | :--------------------------: |
-| Computacao Grafica                   |                            [Mini 3D engine](https://github.com/Gustominox/CG2324)                            |         C++ (OpenGl)         |
-| Processamento de Linguagens          |                   [Forth Language Compiler](https://github.com/Gustominox/Forth-Compiler)                    |         Python (PLY)         |
-| Laboratórios de Informática II       |                     [Jogo Tabuleiro Rastro](https://github.com/Gustominox/jogTabRastro)                      |              C               |
-| Laboratórios de Informática III      |                     [Query's app for Reviews](https://github.com/Gustominox/ProjetoLi3)                      |       C (Glib) e Java        |
-| Laboratórios de Informática IV       |                  [WebApp Leiloes Online de arte](https://github.com/Gustominox/Entrega-LI4)                  | .NET Framework (Razor e C#)  |
-| Sistemas Distribuidos                |                   [Cloud Computing in a FaaS Style](https://github.com/Gustominox/SD-2324)                   |    Java (Multithreading)     |
-| Comunicacao por Computador           |                      [P2P file-sharing service](https://github.com/Gustominox/CC-2324)                       |            Python            |
-| Comunicacao de Dados                 |  [Generate a compressed file using Shannon-Fano encoding ](https://github.com/Gustominox/comprShannon-Fano)  |              C               |
-| Inteligencia Artificial              | [Development of graph search algorithms (VectorRace)](https://github.com/Gustominox/Intelegencia_artificial) |            Python            |
-| Sistemas Operativos                  |              [Client-Server to apply File Transformations](https://github.com/Gustominox/SO_2)               |     C (Multiprocessing)      |
-| Requisitos e Arquitetura de Software |                  [WebApp for batch processing of images](https://github.com/ajoaoalves/RAS)                  | Node.js,Vue, AWS S3 e Python |
-| Engenharia de Serviços em Rede       |           [Serviço Over-the-top para entrega de multimédia](https://github.com/pinheiro2/ESR2425)            |              Go              |
+| Subject                         |                                                 Description                                                  |            Tech             |
+| ------------------------------- | :----------------------------------------------------------------------------------------------------------: | :-------------------------: |
+| Computacao Grafica              |                            [Mini 3D engine](https://github.com/Gustominox/CG2324)                            |        C++ (OpenGl)         |
+| Processamento de Linguagens     |                   [Forth Language Compiler](https://github.com/Gustominox/Forth-Compiler)                    |        Python (PLY)         |
+| Laboratórios de Informática II  |                     [Jogo Tabuleiro Rastro](https://github.com/Gustominox/jogTabRastro)                      |              C              |
+| Laboratórios de Informática III |                     [Query's app for Reviews](https://github.com/Gustominox/ProjetoLi3)                      |       C (Glib) e Java       |
+| Laboratórios de Informática IV  |                  [WebApp Leiloes Online de arte](https://github.com/Gustominox/Entrega-LI4)                  | .NET Framework (Razor e C#) |
+| Sistemas Distribuidos           |                   [Cloud Computing in a FaaS Style](https://github.com/Gustominox/SD-2324)                   |    Java (Multithreading)    |
+| Comunicacao por Computador      |                      [P2P file-sharing service](https://github.com/Gustominox/CC-2324)                       |           Python            |
+| Comunicacao de Dados            |  [Generate a compressed file using Shannon-Fano encoding ](https://github.com/Gustominox/comprShannon-Fano)  |              C              |
+| Inteligencia Artificial         | [Development of graph search algorithms (VectorRace)](https://github.com/Gustominox/Intelegencia_artificial) |           Python            |
+| Sistemas Operativos             |              [Client-Server to apply File Transformations](https://github.com/Gustominox/SO_2)               |     C (Multiprocessing)     |
+
+
+<h4 align="center">Master's degree</h4>
+
+| Subject                              |                                       Description                                       |             Tech             |
+| ------------------------------------ | :-------------------------------------------------------------------------------------: | :--------------------------: |
+| Requisitos e Arquitetura de Software |       [WebApp for batch processing of images](https://github.com/ajoaoalves/RAS)        | Node.js,Vue, AWS S3 e Python |
+| Engenharia de Serviços em Rede       | [Serviço Over-the-top para entrega de multimédia](https://github.com/pinheiro2/ESR2425) |              Go              |
 
 </div>
 
