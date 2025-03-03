@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Augusto</h1>
-<h3 align="center">I am a student at Universidade do Minho, currently finishing my masters degree </h3>
+<h3 align="center">I am a student at Universidade do Minho, currently finishing my Master's degree </h3>
 
 
 
