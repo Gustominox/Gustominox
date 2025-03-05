@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Augusto</h1>
-<h3 align="center">I am a student at Universidade do Minho, currently finishing my Master's degree </h3>
+<h3 align="center">I am a student at Universidade do Minho, currently finishing my Master's Degree </h3>
 
 
 
@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<h3 align="left">Bachelor's degree</h3>
+<h3 align="left">Bachelor's Degree</h3>
 
 
 | Subject                         |                                                 Description                                                  |            Tech             |
@@ -24,7 +24,7 @@
 | Sistemas Operativos             |              [Client-Server to apply File Transformations](https://github.com/Gustominox/SO_2)               |     C (Multiprocessing)     |
 
 
-<h3 align="left">Master's degree</h3>
+<h3 align="left">Master's Degree</h3>
 
 | Subject                                      |                                                           Description                                                            |              Tech               |
 | -------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------: |
