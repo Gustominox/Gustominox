@@ -26,12 +26,13 @@
 
 <h3 align="left">Master's Degree</h3>
 
-| Subject                                      |                                                           Description                                                            |              Tech               |
-| -------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------: |
-| Requisitos e Arquitetura de Software         |                            [WebApp for batch processing of images](https://github.com/ajoaoalves/RAS)                            | Node.js, Vue, AWS S3 and Python |
-| Engenharia de Serviços em Rede               |                      [Over-the-top (OTT) service for media delivery](https://github.com/pinheiro2/ESR2425)                       |               Go                |
-| Aplicações e Serviços de Computação em Nuvem | [Automate the installation,configuration, monitoring, and evaluation of the Moonshot app](https://github.com/ASCN-UM/GrupoTP-13) |        Docker e Ansible         |
-| Computação Paralela                          |                     [Code optimization of a stable fluid solver](https://github.com/pinheiro2/cpar_3dfluid)                      |    C++ with OpenMP and Cuda     |
+| Subject                                      |                                                           Description                                                            |                Tech                |
+| -------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------: |
+| Requisitos e Arquitetura de Software         |                            [WebApp for batch processing of images](https://github.com/ajoaoalves/RAS)                            |  Node.js, Vue, AWS S3 and Python   |
+| Engenharia de Serviços em Rede               |                      [Over-the-top (OTT) service for media delivery](https://github.com/pinheiro2/ESR2425)                       |                 Go                 |
+| Aplicações e Serviços de Computação em Nuvem | [Automate the installation,configuration, monitoring, and evaluation of the Moonshot app](https://github.com/ASCN-UM/GrupoTP-13) |          Docker e Ansible          |
+| Computação Paralela                          |                     [Code optimization of a stable fluid solver](https://github.com/pinheiro2/cpar_3dfluid)                      |      C++ with OpenMP and Cuda      |
+| Novos Paradigmas de Rede                     |                               [Fog-based Vehicular Network](https://github.com/Gustominox/FOVNET)                                | Java with Eclipse Mosaic Framework |
 
 </div>
 
