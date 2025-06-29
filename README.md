@@ -21,7 +21,7 @@
 
 </div>
 
-<h2 align="center">Projects from University</h2>
+<h2 align="center">🎓 Projects from University</h2>
 
 <h3 align="left">Master's Degree</h3>
 
