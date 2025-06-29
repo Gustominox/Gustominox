@@ -7,8 +7,40 @@
 
 <div align="center">
 
-<h3 align="left">Bachelor's Degree</h3>
+<h2 align="center">🚀 Featured Projects</h2>
+<p align="center"><i>These are my most recent and noteworthy projects — worth checking out!</i></p>
 
+
+<div align="center">
+
+| Project                                                                 | Description                                                                                                      | Tech Stack                   |
+| ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| [Image Batch WebApp (RAS)](https://github.com/ajoaoalves/RAS)           | WebApp for batch image processing, designed with scalability and modularity in mind, microservices architecture. | Node.js, Vue, AWS S3, Python |
+| [Moonshot Deployment Automation](https://github.com/ASCN-UM/GrupoTP-13) | Automation of installation, configuration, monitoring and evaluation of a real application in cloud context.     | Docker, Ansible              |
+| [HPC Job Predictor](https://github.com/Gustominox/hpc-job-predictor)    | Analysis of supercomputing cluster logs with ML techniques to predict job outcomes.                              | Apache Spark, PyTorch        |
+| [OTT Media Delivery (ESR)](https://github.com/pinheiro2/ESR2425)        | Over-the-top (OTT) platform for distributed media streaming using REST and scalable microservices.               | Go                           |
+
+</div>
+
+
+
+
+
+<h3 align="left">Master's Degree</h3>
+
+| Subject                                      |                                                           Description                                                            |                Tech                |
+| -------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------: |
+| Requisitos e Arquitetura de Software         |                            [WebApp for batch processing of images](https://github.com/ajoaoalves/RAS)                            |  Node.js, Vue, AWS S3 and Python   |
+| Engenharia de Serviços em Rede               |                      [Over-the-top (OTT) service for media delivery](https://github.com/pinheiro2/ESR2425)                       |                 Go                 |
+| Aplicações e Serviços de Computação em Nuvem | [Automate the installation,configuration, monitoring, and evaluation of the Moonshot app](https://github.com/ASCN-UM/GrupoTP-13) |          Docker e Ansible          |
+| Computação Paralela                          |                     [Code optimization of a stable fluid solver](https://github.com/pinheiro2/cpar_3dfluid)                      |      C++ with OpenMP and Cuda      |
+| Novos Paradigmas de Rede                     |                               [Fog-based Vehicular Network](https://github.com/Gustominox/FOVNET)                                | Java with Eclipse Mosaic Framework |
+| Análise de Dados de Grandes Dimensões        |                      [Big Data Analysis - Deucalion Log’s](https://github.com/Gustominox/hpc-job-predictor)                      |      Apache Spark and PyTorch      |
+| Computação Heterogénea de Elevado Desempenho |                        [Sparse Matrix multiplication optimization](https://github.com/Gustominox/SM-Opt)                         |      C, OpenMP, Sycl and Cuda      |
+
+
+
+<h3 align="left">Bachelor's Degree</h3>
 
 | Subject                         |                                                 Description                                                  |            Tech             |
 | ------------------------------- | :----------------------------------------------------------------------------------------------------------: | :-------------------------: |
@@ -22,18 +54,6 @@
 | Comunicacao de Dados            |  [Generate a compressed file using Shannon-Fano encoding ](https://github.com/Gustominox/comprShannon-Fano)  |              C              |
 | Inteligencia Artificial         | [Development of graph search algorithms (VectorRace)](https://github.com/Gustominox/Intelegencia_artificial) |           Python            |
 | Sistemas Operativos             |              [Client-Server to apply File Transformations](https://github.com/Gustominox/SO_2)               |     C (Multiprocessing)     |
-
-
-<h3 align="left">Master's Degree</h3>
-
-| Subject                                      |                                                           Description                                                            |                Tech                |
-| -------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------: |
-| Requisitos e Arquitetura de Software         |                            [WebApp for batch processing of images](https://github.com/ajoaoalves/RAS)                            |  Node.js, Vue, AWS S3 and Python   |
-| Engenharia de Serviços em Rede               |                      [Over-the-top (OTT) service for media delivery](https://github.com/pinheiro2/ESR2425)                       |                 Go                 |
-| Aplicações e Serviços de Computação em Nuvem | [Automate the installation,configuration, monitoring, and evaluation of the Moonshot app](https://github.com/ASCN-UM/GrupoTP-13) |          Docker e Ansible          |
-| Computação Paralela                          |                     [Code optimization of a stable fluid solver](https://github.com/pinheiro2/cpar_3dfluid)                      |      C++ with OpenMP and Cuda      |
-| Novos Paradigmas de Rede                     |                               [Fog-based Vehicular Network](https://github.com/Gustominox/FOVNET)                                | Java with Eclipse Mosaic Framework |
-| Análise de Dados de Grandes Dimensões        |                      [Big Data Analysis - Deucalion Log’s](https://github.com/Gustominox/hpc-job-predictor)                      |      Apache Spark and PyTorch      |
 
 </div>
 
@@ -51,16 +71,6 @@
 
 
 <!--
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-<!--
-
-
-
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustominox&count_private=true&show_icons=true&theme=gotham&hide=contribs&hide_border=true)
 TEMPORARIO------------------------------------
 --->
