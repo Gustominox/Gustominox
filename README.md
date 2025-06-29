@@ -15,10 +15,10 @@
 
 | Project                                                                 | Description                                                                                                      | Tech Stack                   |
 | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| [Image Batch WebApp (RAS)](https://github.com/ajoaoalves/RAS)           | WebApp for batch image processing, designed with scalability and modularity in mind, microservices architecture. | Node.js, Vue, AWS S3, Python |
+| [Image Batch WebApp](https://github.com/ajoaoalves/RAS)                 | WebApp for batch image processing, designed with scalability and modularity in mind, microservices architecture. | Node.js, Vue, AWS S3, Python |
 | [Moonshot Deployment Automation](https://github.com/ASCN-UM/GrupoTP-13) | Automation of installation, configuration, monitoring and evaluation of a real application in cloud context.     | Docker, Ansible              |
 | [HPC Job Predictor](https://github.com/Gustominox/hpc-job-predictor)    | Analysis of supercomputing cluster logs with ML techniques to predict job outcomes.                              | Apache Spark, PyTorch        |
-| [OTT Media Delivery (ESR)](https://github.com/pinheiro2/ESR2425)        | Over-the-top (OTT) platform for distributed media streaming using REST and scalable microservices.               | Go                           |
+| [OTT Media Delivery)](https://github.com/pinheiro2/ESR2425)             | Over-the-top (OTT) platform for distributed media streaming using REST and scalable microservices.               | Go                           |
 
 </div>
 
