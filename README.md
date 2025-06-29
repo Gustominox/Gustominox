@@ -3,7 +3,6 @@
 
 
 
-<h2 align="center">Projects from University</h2>
 
 <div align="center">
 
@@ -22,9 +21,7 @@
 
 </div>
 
-
-
-
+<h2 align="center">Projects from University</h2>
 
 <h3 align="left">Master's Degree</h3>
 
@@ -37,8 +34,6 @@
 | Novos Paradigmas de Rede                     |                               [Fog-based Vehicular Network](https://github.com/Gustominox/FOVNET)                                | Java with Eclipse Mosaic Framework |
 | Análise de Dados de Grandes Dimensões        |                      [Big Data Analysis - Deucalion Log’s](https://github.com/Gustominox/hpc-job-predictor)                      |      Apache Spark and PyTorch      |
 | Computação Heterogénea de Elevado Desempenho |                        [Sparse Matrix multiplication optimization](https://github.com/Gustominox/SM-Opt)                         |      C, OpenMP, Sycl and Cuda      |
-
-
 
 <h3 align="left">Bachelor's Degree</h3>
 
@@ -59,7 +54,6 @@
 
 <h3 align="left">Other Projects</h3>
 
-
 <div align="center">
 
 | Project Name             |                                                        |
@@ -68,7 +62,6 @@
 | Cli functionalities in C |   [Project](https://github.com/Gustominox/cliTool-c)   |
 
 </div>
-
 
 <!--
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustominox&count_private=true&show_icons=true&theme=gotham&hide=contribs&hide_border=true)
